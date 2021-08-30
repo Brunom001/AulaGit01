@@ -1,3 +1,3 @@
 # AulaGit01
 ## Bruno Morais 
-### Engenharia da Computação
+### Engenharia da Computação - Git
